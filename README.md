@@ -20,7 +20,7 @@ save_file_id: wav 파일로 저장할 파일명(ex. 'music.wav')
 입력 파라미터: sensitivity(정수), video_path(ex. 'C:/Users/82109/Videos/sample.mp4')
 
 pose_time, f_time, s_time, t_time, script_time, face_time, movement_time 반환
-\n
+<br/>
 pose_time: 자세가 기울어진 시간
 
 f_time: 1번 제스처(손이 얼굴 위로 올라갔을 때)
@@ -36,7 +36,7 @@ face_time: 시선이 주변으로 분산된 시간
 movement_time: 얼굴을 움직인 시간
 
 
-\n
+<br/>
 ※ GazeTracking 버전
 
 numpy == 1.16.1
