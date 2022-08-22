@@ -44,10 +44,10 @@ numpy == 1.16.1
 opencv_python == 4.2.0.32
 
 dlib == 19.16.0
-<br/>
+<br/><br/>
 music.mp4 실험 파일
 
-music.wav 실험 파일을 wav 파일로 
+music.wav 실험 파일을 wav 파일로 변환한 파일
 
 
 <s>1. 어깨의 x좌표
