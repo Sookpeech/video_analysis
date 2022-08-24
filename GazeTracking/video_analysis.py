@@ -117,15 +117,11 @@ def video_analysis(sensitivity, video_path):
             if t_before == t_present and t_present == 1:
                 third_count += FPS/2
                 
-            if movement_before == movement_present and movement_present == 1:
-                movement_count += FPS/2
-
             # 변수 초기화하기
             p_before = p_present
             f_before = f_present
             s_before = s_present
             t_before = t_present
-            movement_before = movement_present
             
             
             # 얼굴 움직임 분석
